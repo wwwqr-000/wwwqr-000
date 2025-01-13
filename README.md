@@ -14,5 +14,5 @@
 </div>
 <br>
 <div align="center">
-    <a href="https://www.buienradar.nl" target="_blank"><img border="0" src="https://image.buienradar.nl/2.0/image/single/RadarMapRainNL?height=155&width=215&renderBackground=True&renderBranding=False&renderText=True"></a>
+    <a href="https://www.buienradar.nl" target="_blank"><img border="0" src="https://gadgets.buienradar.nl/gadget/radarfivedays"></a>
 </div>
