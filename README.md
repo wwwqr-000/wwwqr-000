@@ -9,7 +9,10 @@
     <img src="https://raw.githubusercontent.com/wwwqr-000/wwwqr-000/refs/heads/main/whiteavocado.png" title="whiteavocado" alt="whiteavocado">
 </div>
 <br>
-<div align=center>
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wwwqr-000&row=2&column=3&no-bg=true&margin-w=2&margin-h=2&no-frame=true" alt="Trophy"/>
 </div>
 <br>
+<div align="center">
+    <a href="https://www.buienradar.nl" target="_blank"><img border="0" src="https://image.buienradar.nl/2.0/image/single/RadarMapRainNL?height=155&width=215&renderBackground=True&renderBranding=False&renderText=True"></a>
+</div>
