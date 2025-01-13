@@ -6,7 +6,7 @@
 </div>
 <h2 align="center">Member of whiteavocado</h2>
 <div align="center">
-    <a href="http://ncngrqwu57nbrm7fvqyogywnhrxuxehyphymaufhbqx2flu5yoq2n6id.onion/"><img src="https://raw.githubusercontent.com/wwwqr-000/wwwqr-000/refs/heads/main/whiteavocado.png" title="whiteavocado" alt="whiteavocado"></a>
+    <img src="https://raw.githubusercontent.com/wwwqr-000/wwwqr-000/refs/heads/main/whiteavocado.png" title="whiteavocado" alt="whiteavocado">
 </div>
 <br>
 <div align=center>
