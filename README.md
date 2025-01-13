@@ -14,5 +14,6 @@
 </div>
 <br>
 <div align="center">
+    <IFRAME SRC="https://gadgets.buienradar.nl/gadget/radarfivedays" NORESIZE SCROLLING=NO HSPACE=0 VSPACE=0 FRAMEBORDER=0 MARGINHEIGHT=0 MARGINWIDTH=0 WIDTH=256 HEIGHT=406></IFRAME>
     <a href="https://www.buienradar.nl" target="_blank"><img border="0" src="https://image.buienradar.nl/2.0/image/single/RadarMapRainNL?height=155&width=215&renderBackground=True&renderBranding=False&renderText=True"></a>
 </div>
