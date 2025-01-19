@@ -9,7 +9,7 @@
     <img src="https://raw.githubusercontent.com/wwwqr-000/wwwqr-000/refs/heads/main/whiteavocado.png" title="whiteavocado" alt="whiteavocado">
 </div>
 <br>
-<h2>Github statistics</h2>
+<div align="center"><h2>Github statistics</h2></div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wwwqr-000&row=2&column=3&no-bg=true&margin-w=2&margin-h=2&no-frame=true" alt="Trophy"/>
 </div>
