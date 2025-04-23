@@ -5,4 +5,4 @@
     </p>
 </div>
 
-![main](https://github.com/user-attachments/assets/17d20fa6-d214-4999-8c0d-55f38bb5fbf2)
+<img src="https://github.com/user-attachments/assets/17d20fa6-d214-4999-8c0d-55f38bb5fbf2" width="200" height="400" />
