@@ -21,3 +21,5 @@
 * HTML
 * CSS
 * SQL
+* Batch
+* Bash
