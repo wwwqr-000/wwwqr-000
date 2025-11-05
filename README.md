@@ -7,7 +7,7 @@
     </p>
 </div>
 
-<h5>Mastered languages</h5>
+<h5>Mastered languages/ syntaxes</h5>
 
 * C++
 * Java
@@ -18,5 +18,6 @@
 * VBS
 * Lua
 * PHP
-* html
-* css
+* HTML
+* CSS
+* SQL
