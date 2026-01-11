@@ -8,4 +8,4 @@
 </div>
 
 <h1>Things I know about/ master seen coding:</h1>
-html | css | js | node.js | php | c | c++ | c# | python | java | vbs | asm x86 | asm 6502 | sql | linux | systemctl | daemons | ufw | bash | batch | lua | luau | iot | react | laravel | wireshark | burpsuite | wifite2 | aircrack-ng | hydra | tcp | udp | packets | buffer overflow | onion | tor | darkweb-relays | sql injection | xss | csrf | htaccess
+html | css | js | node.js | php | c | c++ | c# | python | java | vbs | asm x86 | asm 6502 | sql | linux | systemctl | daemons | ufw | bash | batch | lua | luau | iot | react | laravel | wireshark | burpsuite | wifite2 | aircrack-ng | hydra | tcp | udp | packets | buffer overflow | onion | tor | darkweb-relays | sql injection | xss | csrf | htaccess | arduino | micropython | circuitpython
