@@ -9,3 +9,7 @@
 
 <h1></h1>
 <code>html | css | js | node.js | php | c | c++ | c# | python | java | vbs | asm x86 | asm 6502 | sql | linux | systemctl | daemons | ufw | bash | batch | lua | luau | iot | react | laravel | wireshark | burpsuite | wifite2 | aircrack-ng | hydra | tcp | udp | packets | buffer overflow | onion | tor | darkweb-relays | sql injection | xss | csrf | htaccess | arduino | micropython | circuitpython | aes | kali linux | lexer | kernel | custom os | apache2 | nginx | sockets | tunnels</code>
+
+<h1></h1>
+
+R.I.P Terry A. Davis
