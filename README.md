@@ -12,4 +12,4 @@
 
 <h1></h1>
 
-R.I.P. Terry A. Davis
+R.I.P. Terry A. Davis 🕊️
