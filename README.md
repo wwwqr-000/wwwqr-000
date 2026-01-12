@@ -12,4 +12,4 @@
 
 <h1></h1>
 
-From kernel to cloud, I explore systems with curiosity, aware that I don't know everything, yet hold the power to break and the responsibility to protect. The world runs on trust
+From kernel to cloud, I explore systems with curiosity, aware that I don't know everything, yet hold the power to break and the responsibility to protect. The world runs on trust, and reality is what we define it to be.
