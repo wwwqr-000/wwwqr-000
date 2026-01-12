@@ -12,4 +12,4 @@
 
 <h1></h1>
 
-(Yes, I'm ethical)
+From kernel to cloud, I explore systems with the power to break and the responsibility to protect
