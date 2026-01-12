@@ -12,4 +12,4 @@
 
 <h1></h1>
 
-(Ethical stuff only)
+digital polymath in action
