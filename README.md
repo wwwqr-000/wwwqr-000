@@ -14,6 +14,13 @@
 
 <code>making web-frameworks | cybersecurity | ethical hacking | experimenting with making new languages | making webservers | building iot contraptions | minecraft | tcp network infrastructure (socket systems) | making new things I come up with | experimenting in general</code>
 
+<h4>Favorite languages</h4>
+<ul>
+    <li>1. c++</li>
+    <li>2. python</li>
+    <li>3. java</li>
+</ul>
+
 <h1></h1>
 
 I build and explore systems with curiosity. If I don't understand something, I rebuild it myself. I know I don't know everything, yet I hold the power to break and the responsibility to protect. The world runs on trust
