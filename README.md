@@ -12,7 +12,7 @@
 
 <h3>Things I'm interested in</h3>
 
-<code>making web-frameworks | cybersecurity | ethical hacking | experimenting with making new languages | making webservers | building iot contraptions | minecraft | tcp network infrastructure (socket systems) | making new things I come up with | experimenting in general</code>
+<code>making web-frameworks | cybersecurity | ethical hacking | experimenting with making new languages | making webservers | building iot contraptions | minecraft | tcp network infrastructure (socket systems) | lora | making new things I come up with | experimenting in general</code>
 
 <h4>Favorite languages</h4>
 <ul>
